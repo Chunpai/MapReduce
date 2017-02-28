@@ -1,0 +1,13 @@
+
+There are 3 files
+:
+BookReviewRating.txt :  https://www.dropbox.com/s/fgjy7p1d8mb5mpa/BookReviewRating.txt?dl=0
+
+MP.java : map-reduce code to find the set of Amazon books which received at least 10 
+          reviews and have an average rating of at least 4.95.
+
+MP.jar  : generated jar file of MP.java used for hadoop distributed file system to run the code.
+          For generating the jar file, please check the link below. 
+          http://chunpai.github.io/others/2016/02/16/hadoop-commands.html
+          
+      
